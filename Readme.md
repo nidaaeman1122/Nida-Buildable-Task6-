@@ -24,7 +24,9 @@ Hints are displayed to help the player reach the correct answer.
 
 ## 📂 Project Structure
 index.html
+
 script.js
+
 style.css
 
 
@@ -40,8 +42,11 @@ style.css
 ## 👩‍💻 Author
 **Nida Eman**  
 Github:
-Netlify:
+
+Netlify: https://buildablestask.netlify.app/
+
 *Built for learning and practice purposes.*
 
 ---
+
 
