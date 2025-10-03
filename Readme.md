@@ -41,12 +41,13 @@ style.css
 
 ## 👩‍💻 Author
 **Nida Eman**  
-Github:
+Github:https://github.com/nidaaeman1122/Nida-Buildable-Task6-.git
 
 Netlify: https://buildablestask.netlify.app/
 
 *Built for learning and practice purposes.*
 
 ---
+
 
 
